@@ -14,6 +14,8 @@ test scraper project
 - https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
 - https://nodejs.org/api/fs.html
 - https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
+- https://medium.com/adobetech/how-to-combine-rest-api-calls-with-javascript-promises-in-node-js-or-openwhisk-d96cbc10f299
+
 
 
 ### Git stuffs
