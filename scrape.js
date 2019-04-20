@@ -1,7 +1,7 @@
 // MANGA SCRAPE
 
 const fs = require('fs');
-const request = require('request');
+// const request = require('request');
 const rp = require('request-promise');
 const cheerio = require('cheerio');
 const jsonframe = require('jsonframe-cheerio');
@@ -48,7 +48,8 @@ rp(options)
         console.log(
           '====================================' + '\n' +
           'File write success!' + '\n' +
-          'Data file located in data.json' + '\n' + '====================================' );
+          'Data file located in data.json ' +
+          '(' + mangaList.manga.length + ' items)' + '\n' + '====================================' );
       });
     }
 

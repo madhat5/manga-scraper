@@ -13,6 +13,7 @@ test scraper project
 - https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
 - https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
 - https://nodejs.org/api/fs.html
+- https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
 
 
 ### Git stuffs
