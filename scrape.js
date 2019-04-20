@@ -43,7 +43,12 @@ rp(options)
     function writeFile() {
       // Will write the json file
       fs.writeFile("data.json", JSON.stringify(mangaList, null, 4), (err) => {
-        console.log("File successfully written!");
+        // console.log("File successfully written!");
+
+        console.log(
+          '====================================' + '\n' +
+          'File write success!' + '\n' +
+          'Data file located in data.json' + '\n' + '====================================' );
       });
     }
 

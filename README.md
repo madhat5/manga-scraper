@@ -4,7 +4,7 @@ test scraper project
 
 ## Setup
 - npm install
-- run 'node main.js' to scrape
+- run 'node scrape.js' to scrape
 
 ### References:
 - https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7
@@ -12,6 +12,7 @@ test scraper project
 - https://github.com/gahabeen/jsonframe-cheerio#list--array
 - https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
 - https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
+- https://nodejs.org/api/fs.html
 
 
 ### Git stuffs
